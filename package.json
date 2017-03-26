@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "live-qna",
+  "description": "Simple Live Q&A app",
   "version": "0.0.1",
-  "description": "my first socket.io app",
   "dependencies": {
     "express": "^4.15.2",
     "jquery": "^3.2.1",
